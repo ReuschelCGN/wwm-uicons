@@ -15716,7 +15716,8 @@
     "TAPPABLE_TYPE_HAT.png",
     "TAPPABLE_TYPE_MAPLE.png",
     "TAPPABLE_TYPE_POKEBALL.png",
-    "TAPPABLE_TYPE_ROUTE_PIN.png"
+    "TAPPABLE_TYPE_ROUTE_PIN.png",
+    "TAPPABLE_TYPE_BOX.png"
   ],
   "team": [
     "0.png",
